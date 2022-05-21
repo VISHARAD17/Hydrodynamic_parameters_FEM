@@ -8,3 +8,5 @@ Steps :
 - Incorporate Boundary condition into the Global Siffness Matrix.
 - Calculate radiation and force matrix using stiffness Matrix.
 - Calculate Added mass and Daming coefficient for each mode of motion
+
+Detailed report about the Implentation and Theory can be found [here]()
