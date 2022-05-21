@@ -4,7 +4,7 @@ Implementation of **Finite element method** to calculate Added Mass and Damping 
 Steps :
 - Find out boundary conditions
 - Discretize the domain region into rectagular nodes.
-- Calculate general Stiffness Matrix by calculating element stiffness matrix.
+- Calculate Global Stiffness Matrix by calculating element stiffness matrices.
 - Incorporate Boundary condition into the Global Siffness Matrix.
 - Calculate radiation and force matrix using stiffness Matrix.
 - Calculate Added mass and Daming coefficient for each mode of motion
